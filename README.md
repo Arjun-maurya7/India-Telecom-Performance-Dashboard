@@ -22,5 +22,3 @@ Download the `.pbix` file to view the full interactive dashboard.
 
 ---
 *Mentored by Prof. Ashima*
-
-Good luck with the upload! You have built a solid portfolio piece. 🚀

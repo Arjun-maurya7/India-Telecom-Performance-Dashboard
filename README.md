@@ -20,5 +20,3 @@ This project analyzes the performance of major Indian telecom operators (Jio, Ai
 ## 🚀 How to View
 Download the `.pbix` file to view the full interactive dashboard.
 
----
-*Mentored by Prof. Ashima*

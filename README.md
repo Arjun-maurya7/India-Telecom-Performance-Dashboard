@@ -20,3 +20,10 @@ This project analyzes the performance of major Indian telecom operators (Jio, Ai
 ## 🚀 How to View
 Download the `.pbix` file to view the full interactive dashboard.
 
+## 🚀 How to Run Locally
+
+1.  **Clone the repo:** `git clone https://github.com/Arjun-maurya7/India-Telecom-Performance-Dashboard`
+2.  **Get API Key:** specific to the [Voice Call Quality dataset](https://www.data.gov.in/resource voice-call-quality-customer-experience-till-last-month).
+3.  **Scrape:** Paste your API key inside `Data/scaping_data.py` and run the script.
+4.  **Process:** Run `clean.py` to clean and format the dataset.
+5.  **Visualize:** Open the Power BI project file and connect it to the cleaned data source.
